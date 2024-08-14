@@ -3,7 +3,7 @@
 A simple web application built with TypeScript, HTML, and CSS that allows users to generate a specified number of randomly sized squares
 
  **Compile the TypeScript code**:
-    ```bash
+    ```
     tsc
     ```
 
